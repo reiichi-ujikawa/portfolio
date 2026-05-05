@@ -37,3 +37,6 @@
 
 ## スクリーンショット
 ![overview](/PA/PA1/overview.png)
+
+## フロー定義
+[flow-definition.json](/PA/PA1/flow-definition.json)を参照
