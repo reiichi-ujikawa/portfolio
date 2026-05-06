@@ -48,6 +48,7 @@
             "parameters": {
               "to": "lastly1022@gmail.com",
               "includeAttachments": false,
+              "subjectFilter": "応募がありました",
               "importance": "Any",
               "fetchOnlyWithAttachment": false,
               "folderPath": "Inbox"
